@@ -1,10 +1,10 @@
 ### Olá! Bem vindo ao meu perfil 👋:basketball:
-<img align="center" src="https://github.com/DrigoCarvalho/DrigoCarvalho/blob/main/octocat.png" />
+<img align="center" src="https://github.com/DrigoCarvalho/DrigoCarvalho/blob/main/octocat.png" height=400px; />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drigocarvalho&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DrigoCarvalho&theme=tokyonight" />
 </a>
-<a href="https://github.com/DrigoCarvalho/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigocarvalho&langs_count=8&theme=tokyonight" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrigoCarvalho&layout=compact&theme=tokyonight" />
 </a>
 
 
