@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrigoCarvalho&layout=default&langs_count=6&theme=tokyonight&custom_title=Linguagens mais utilizadas" />
 </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DrigoCarvalho&theme=tokyonight&cache_seconds=50000&custom_title=Github Status" style="margin: auto;" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DrigoCarvalho&theme=tokyonight&cache_seconds=50000&custom_title=Github Status" />
 
 
 
