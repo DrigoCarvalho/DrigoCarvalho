@@ -1,15 +1,13 @@
 ### Olá! Bem vindo ao meu perfil 👋:basketball:
 
-<a href="#">
-  <img  src="https://github.com/DrigoCarvalho/DrigoCarvalho/blob/main/octocat.png" height=400px; />
-</a>
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrigoCarvalho&layout=default&langs_count=6&theme=tokyonight&custom_title=Linguagens mais utilizadas" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DrigoCarvalho&theme=tokyonight&custom_title=Status%20GitHub" />
 </a>
-<hr> 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DrigoCarvalho&theme=tokyonight&cache_seconds=80000&custom_title=Github Status" />
-</p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DrigoCarvalho&theme=tokyonight&custom_title=Top%20Linguagens&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 <!--
