@@ -1,10 +1,6 @@
-### Olá! Bem vindo ao meu perfil 👋:basketball:
+### Olá! Bem vindo ao meu perfil 👋
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DrigoCarvalho&theme=tokyonight&custom_title=Status%20GitHub" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DrigoCarvalho&theme=tokyonight&custom_title=Top%20Linguagens&layout=compact&langs_count=8&card_width=320" />
 </a>
